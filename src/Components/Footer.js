@@ -9,11 +9,11 @@ function Footer () {
              
             <ul className="social-link2">
                 <li>
-                    <a className="soci" href="https://www.twitter.com" ><img src="insta.png" alt height="25px" width="25px"/></a>
+                    <a className="soci" href="https://www.twitter.com" ><img src="insta.png" alt height="22px" width="22px"/></a>
                     
                 </li>
                 <li>
-                <a className="soci" href="https://www.facebook.com" ><img src="faceb.png" alt height="21px" width="21px"/></a>
+                <a className="soci" href="https://www.facebook.com" ><img src="faceb.png" alt height="22px" width="22px"/></a>
                     
                 </li>
                 {/* <li>
@@ -21,15 +21,15 @@ function Footer () {
                     
                 </li> */}
                 <li>
-                <a className="soci" href="https://www.tiktok.com" ><img src="tik.png" alt height="21px" width="21px"/></a>
+                <a className="soci" href="https://www.tiktok.com" ><img src="tik.png" alt height="22px" width="22px"/></a>
                     
                 </li>
                 <li>
-                <a className="soci" href="https://open.spotify.com/" ><img src="spotify.png" alt height="21px" width="21px"/></a>
-                    
+                <a className="soci" href="https://open.spotify.com/" ><img src="spotify.png" alt height="22px" width="22px"/></a>
+     
                 </li>
                 <li>
-                <a className="soci" href="https://www.youtube.com" ><img src="youtu.png" alt height="25px" width="25px"/></a>
+                <a className="soci" href="https://www.youtube.com" ><img src="youtu.png" alt height="22px" width="22px"/></a>
                     
                 </li>
             </ul>
@@ -40,7 +40,7 @@ function Footer () {
               <li><p className="p1">Contact Us</p></li>
               <li><p className="p2" >About Us</p></li>
               <li><p className="p3">Terms of service</p></li>
-              <li><p className="p4">privacy policy</p></li>
+              <li><p className="p4">Privacy Policy</p></li>
             </ul>
           
           </div>

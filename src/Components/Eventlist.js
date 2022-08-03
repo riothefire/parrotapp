@@ -1,8 +1,10 @@
 import React from "react";
 function EventsList(props)
 {
+const devo=()=>{props.remove(props.id)}
+
 return(
-    <div className="zapp">
+    <div className="zapp"key={props.id}>
  <img className="crash" src={`https://picsum.photos/200/200?random=${props.id}`} alt height="150px" width="200px"/>
             <div className="zippi">
             {props.name}
@@ -13,11 +15,12 @@ return(
                 props.title
             }
             </div>
-            <button className="perf">
+            <button  className="perf">
                 Performance
             </button>
+            <img className="delete" onClick={devo} src="delete.png"height="20px" width="20px"></img>
 
     </div>
 );
-}
+        }
 export default EventsList;
