@@ -1,10 +1,11 @@
 import React from 'react'
+import pic from "../Images/back4.jpg"
 
 function Pictures  () {
   return (
   <div className ="zyz">
 <div className="back4">
-    <img src="./back4.jpg" alt="" height="300" width="100%"/>
+    <img src={pic} alt="" height="300" width="100%"/>
 </div>
 
 <div className="boxes">
@@ -14,19 +15,15 @@ function Pictures  () {
 
 <div className="front">
 
-    <h2><strong>Prashant Ranjan</strong></h2>
-    <h3><strong>@prashant</strong></h3>
-    <p>My name is Prashant Ranjan, i am working as a software <br/>developer in TFT.</p>
+    <h1 className='namo'>Prashant Ranjan</h1>
+    <div className='prash'><h2>@prashant</h2>
+    </div>
+    <p className='intro'>My name is Prashant Ranjan, I am <br/>working as a software developer in TFT.</p>
 </div>
-<div className="bit">
-<button>
-    Follow
-</button>
-<button className="bit2">
-    Share Profile
-</button>
+<div className="bit"><button>Follow</button>
+<button className="bit2"> Share Profile</button>
 </div>
-<div className="record"><strong>Prashant Is </strong><span className="rc"><strong>recording music in the studio </strong>
+<div className="record"><strong>Prashant Is </strong>&ensp;<span className="rc"><strong>recording music </strong>
 <img src="./music.png" alt  height="20px" width="20px"/></span>&ensp;Jul 18</div>
 </div>
     
