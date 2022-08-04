@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/parrotapp/static/css/main.56dacab3.css",
+    "main.js": "/parrotapp/static/js/main.6360cbf5.js",
+    "static/js/787.7fa8ba7d.chunk.js": "/parrotapp/static/js/787.7fa8ba7d.chunk.js",
+    "static/media/bbcf4220-d823-11ec-8722-8d326bfc3bba.png": "/parrotapp/static/media/bbcf4220-d823-11ec-8722-8d326bfc3bba.4a4045957180628622f6.png",
+    "static/media/back4.jpg": "/parrotapp/static/media/back4.fcb81d2f79b6289ab0df.jpg",
+    "static/media/ApplauseCommunity.png": "/parrotapp/static/media/ApplauseCommunity.07a7ac195b86d212edbf.png",
+    "static/media/Zappcrash.png": "/parrotapp/static/media/Zappcrash.dfbbbf7268d932585479.png",
+    "static/media/clap.png": "/parrotapp/static/media/clap.3c00f321a158b0919b65.png",
+    "static/media/image.png": "/parrotapp/static/media/image.72bd894ea19088c59bd6.png",
+    "index.html": "/parrotapp/index.html",
+    "main.56dacab3.css.map": "/parrotapp/static/css/main.56dacab3.css.map",
+    "main.6360cbf5.js.map": "/parrotapp/static/js/main.6360cbf5.js.map",
+    "787.7fa8ba7d.chunk.js.map": "/parrotapp/static/js/787.7fa8ba7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56dacab3.css",
+    "static/js/main.6360cbf5.js"
+  ]
+}
