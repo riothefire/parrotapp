@@ -14,7 +14,7 @@ function Navbar  () {
            <a className="nav-link" href="#">Sign In</a>
          </li>
          <li className="navitem">
-           <a className="nav-link" href="#">Sign Up With Zoom</a>
+           <a className="nav-link" href="#">Sign Up Zoom</a>
          </li>
        </ul>
 </div>

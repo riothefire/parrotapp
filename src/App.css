@@ -1097,12 +1097,13 @@ button{
   .navjust{
     display: flex;
     float: right;
-    margin-right: 150px;
+    margin-right: 100px;
     margin-top: -50px;
   }
   .navitem{
-    margin-left: 27px;
-    margin-right: 27px;
+    margin-left: 17px;
+    margin-right: 50px;
+  
   }
 
 .bit{
