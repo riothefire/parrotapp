@@ -1,5 +1,9 @@
 import React from 'react'
-
+import insta from "../Images/insta.png"
+import faceb from "../Images/faceb.png"
+import tik from "../Images/tik.png"
+import spotify from "../Images/spotify.png"
+import youtu from "../Images/youtu.png"
 function Footer () {
   return (
 
@@ -9,11 +13,11 @@ function Footer () {
              
             <ul className="social-link2">
                 <li>
-                    <a className="soci" href="https://www.twitter.com" ><img src="insta.png" alt height="22px" width="22px"/></a>
+                    <a className="soci" href="https://www.twitter.com" ><img src={insta} alt height="22px" width="22px"/></a>
                     
                 </li>
                 <li>
-                <a className="soci" href="https://www.facebook.com" ><img src="faceb.png" alt height="22px" width="22px"/></a>
+                <a className="soci" href="https://www.facebook.com" ><img src={faceb} alt height="22px" width="22px"/></a>
                     
                 </li>
                 {/* <li>
@@ -21,15 +25,15 @@ function Footer () {
                     
                 </li> */}
                 <li>
-                <a className="soci" href="https://www.tiktok.com" ><img src="tik.png" alt height="22px" width="22px"/></a>
+                <a className="soci" href="https://www.tiktok.com" ><img src={tik} alt height="22px" width="22px"/></a>
                     
                 </li>
                 <li>
-                <a className="soci" href="https://open.spotify.com/" ><img src="spotify.png" alt height="22px" width="22px"/></a>
+                <a className="soci" href="https://open.spotify.com/" ><img src={spotify} alt height="22px" width="22px"/></a>
      
                 </li>
                 <li>
-                <a className="soci" href="https://www.youtube.com" ><img src="youtu.png" alt height="22px" width="22px"/></a>
+                <a className="soci" href="https://www.youtube.com" ><img src={youtu} alt height="22px" width="22px"/></a>
                     
                 </li>
             </ul>

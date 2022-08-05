@@ -1,4 +1,5 @@
 import React from "react";
+import del from "../Images/del.png"
 function EventsList(props)
 {
 const devo=()=>{props.remove(props.id)}
@@ -18,7 +19,7 @@ return(
             <button  className="perf">
                 Performance
             </button>
-            <img className="delete" onClick={devo} src="delete.png"height="20px" width="20px"></img>
+            <img className="delete" onClick={devo} src={del}height="20px" width="20px"></img>
 
     </div>
 );
