@@ -1097,7 +1097,7 @@ button{
   .navjust{
     display: flex;
     float: right;
-    margin-right: 100px;
+    margin-right: 90px;
     margin-top: -50px;
   }
   .navitem{
