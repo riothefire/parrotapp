@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/parrotapp/static/css/main.3e8c3aec.css",
+    "main.css": "/parrotapp/static/css/main.442e6066.css",
     "main.js": "/parrotapp/static/js/main.818aaa89.js",
     "static/js/787.7fa8ba7d.chunk.js": "/parrotapp/static/js/787.7fa8ba7d.chunk.js",
     "static/media/bbcf4220-d823-11ec-8722-8d326bfc3bba.png": "/parrotapp/static/media/bbcf4220-d823-11ec-8722-8d326bfc3bba.4a4045957180628622f6.png",
@@ -11,12 +11,12 @@
     "static/media/clap.png": "/parrotapp/static/media/clap.3c00f321a158b0919b65.png",
     "static/media/image.png": "/parrotapp/static/media/image.72bd894ea19088c59bd6.png",
     "index.html": "/parrotapp/index.html",
-    "main.3e8c3aec.css.map": "/parrotapp/static/css/main.3e8c3aec.css.map",
+    "main.442e6066.css.map": "/parrotapp/static/css/main.442e6066.css.map",
     "main.818aaa89.js.map": "/parrotapp/static/js/main.818aaa89.js.map",
     "787.7fa8ba7d.chunk.js.map": "/parrotapp/static/js/787.7fa8ba7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e8c3aec.css",
+    "static/css/main.442e6066.css",
     "static/js/main.818aaa89.js"
   ]
 }
