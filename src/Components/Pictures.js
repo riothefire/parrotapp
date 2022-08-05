@@ -20,7 +20,7 @@ function Pictures  () {
     <h1 className='namo'>Prashant Ranjan</h1>
     <div className='prash'><h2>@prashant</h2>
     </div>
-    <p className='intro'>My name is Prashant Ranjan, I am <br/>working as a software developer in TFT.</p>
+    <p className='intro'>My name is Prashant Ranjan, I am working as a software <br/>developer in TFT.</p>
 </div>
 <div className="bit"><button>Follow</button>
 <button className="bit2"> Share Profile</button>
