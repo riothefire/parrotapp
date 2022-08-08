@@ -20,7 +20,7 @@ const PlaceList = (props) => {
     image = require("../Images/error.png");
     // console.log("hello", image);
   }
-  console.log(props)
+  console.log(props);
   return (
     <li>
       <a className="card6" target="_blank" href={props.url}>

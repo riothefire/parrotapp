@@ -1,90 +1,81 @@
-.back4{
+.back4 {
   float: left;
   width: 100%;
   height: 300px;
-
 }
-.pic{
+.pic {
   border-radius: 50%;
   margin-left: 15rem;
   margin-top: -2.5rem;
 }
-.front{
+.front {
   margin-left: 15rem;
   margin-top: 1rem;
-  
 }
-.namo{
+.namo {
   margin-left: -50px;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
 }
-.prash{
+.prash {
   margin-left: -50px;
   margin-top: -20px;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
 }
-.intro{
-margin-left: -50px;
-margin-top: 20px;
+.intro {
+  margin-left: -50px;
+  margin-top: 20px;
 }
-button{
+button {
   background-color: gainsboro;
   border-radius: 5px;
   border: 1px;
   padding: 10px;
   font-weight: bold;
- 
 }
-.nav{
+.nav {
   height: 60px;
 }
-.clap{
+.clap {
   margin-top: 8px;
   margin-left: 40px;
 }
-.nav-link{
+.nav-link {
   margin-top: 25px;
- margin-right: -100px;
- float: left;
- color: black;
- font-style: non;
- text-decoration: none;
-
- 
+  margin-right: -100px;
+  float: left;
+  color: black;
+  font-style: non;
+  text-decoration: none;
 }
-  .navbar{
-    margin-left: 20px;
+.navbar {
+  margin-left: 20px;
   flex-direction: row;
- 
-  }
-  .navjust{
-    display: flex;
-    float: right;
-    margin-right: 150px;
-    margin-top: -50px;
-  }
-  .navitem{
-    margin-left: 27px;
-    margin-right: 27px;
-  }
+}
+.navjust {
+  display: flex;
+  float: right;
+  margin-right: 150px;
+  margin-top: -50px;
+}
+.navitem {
+  margin-left: 27px;
+  margin-right: 27px;
+}
 
-.bit{
+.bit {
   margin-left: 15rem;
   justify-content: space-between;
   border-radius: 15px;
   margin-top: 10px;
-
 }
-.bit2{
+.bit2 {
   margin-left: 180px;
   clear: both;
   border-radius: 15px;
-  margin-top: 20px;  
+  margin-top: 20px;
 }
 
-
-
-.places{
+.places {
   height: 400px;
   width: 220px;
   background-color: rgb(250, 248, 248);
@@ -92,14 +83,12 @@ button{
   margin-top: -80px;
   margin-left: 100px;
   border-radius: 15px;
-
-
 }
 
 .places:hover {
-	animation: bounce 1s;
+  animation: bounce 1s;
 }
-.addi{
+.addi {
   float: left;
   margin-top: 55px;
   margin-left: 20px;
@@ -107,9 +96,8 @@ button{
   height: 35px;
   width: 65px;
   background-color: beige;
-  
 }
-.card6{
+.card6 {
   clear: both;
   float: left;
 
@@ -119,17 +107,16 @@ button{
   height: 30px;
   align-items: center;
   float: left;
-  
 }
-.card7{
+.card7 {
   margin-left: 10px;
   margin-right: 10px;
   float: right;
 }
-.card11{
+.card11 {
   margin-right: 10px;
   float: right;
-  height: 25px  ;
+  height: 25px;
   width: 25px;
   margin-bottom: 15px;
   text-align: center;
@@ -138,49 +125,45 @@ button{
   vertical-align: middle;
   display: table-cell;
 }
-.delete{
+.delete {
   margin-top: 20px;
 }
-.btn-4{
+.btn-4 {
   clear: both;
   margin-left: 40px;
- float: left; 
+  float: left;
 }
-li{
+li {
   list-style-type: none;
   margin-bottom: 10px;
 }
-.place{
+.place {
   margin-top: 40px;
   font-size: 18px;
-  font-family: Times New Roman,Times,serif;
+  font-family: Times New Roman, Times, serif;
   margin-bottom: 20px;
   margin-left: 30px;
   font-weight: bold;
 }
-.boxes{
+.boxes {
   float: left;
- 
 }
-.evs{
+.evs {
   margin-top: -30px;
 }
-.record{
-  margin-left: 25rem ;
+.record {
+  margin-left: 25rem;
   margin-top: 30px;
-
 }
-.rc{
+.rc {
   text-decoration: underline wavy red;
   color: red;
-  
 }
 
-.comm{
- 
+.comm {
   background-image: url("../public/ApplauseCommunity.png");
   background-repeat: no-repeat;
-  background-size:  contain;
+  background-size: contain;
   margin-top: 100px;
   float: left;
   height: 140px;
@@ -189,26 +172,23 @@ li{
   display: block;
   box-shadow: 0px 0px 30px rgb(183, 183, 111);
   border-radius: 10px;
-
 }
-.Applause{
+.Applause {
   font-weight: bold;
   font-size: 30px;
   margin-left: 20px;
- 
 }
-.fan{
+.fan {
   margin-top: 20px;
   margin-left: 25px;
   font-size: 20px;
 }
-.fan2{
+.fan2 {
   font-size: 12px;
   margin-left: 20px;
   margin-top: 20px;
-
 }
-.upcoming{
+.upcoming {
   clear: both;
   float: left;
   display: block;
@@ -218,50 +198,43 @@ li{
   font-size: 20px;
   margin-bottom: 45px;
   margin-top: 60px;
-
-
 }
-.zapp{
+.zapp {
   margin-left: 16rem;
   height: 150px;
   width: 40%;
- clear: both;
- float: left;
- margin-bottom: 50px;
-
+  clear: both;
+  float: left;
+  margin-bottom: 50px;
 }
 
-.zapp:hover{
-      border: 2px solid rgb(241, 189, 58) ;
-      transform: rotate(-5deg);
-      
-
+.zapp:hover {
+  border: 2px solid rgb(241, 189, 58);
+  transform: rotate(-5deg);
 }
-.crash{
+.crash {
   border-radius: 10px;
   margin-left: 10px;
   margin-right: 20px;
   float: left;
 }
-.zippi{
+.zippi {
   font-weight: bold;
   font-size: 15px;
   margin-top: 30px;
-  
 }
-.free{
+.free {
   font-size: 12px;
   margin-top: 15px;
 }
-.perf{
+.perf {
   border-radius: 15px;
   background-color: rgb(228, 143, 157);
   color: white;
-  margin-top: 15px ;
+  margin-top: 15px;
   font-weight: bold;
-  
 }
-.fomio{
+.fomio {
   width: 250px;
   height: 130px;
   border: 1px solid rgb(184, 203, 14);
@@ -270,25 +243,22 @@ li{
   margin-right: 80px;
   border-radius: 10px;
   text-align: center;
- 
 }
-.fomname1{
-  float: right ;
-
+.fomname1 {
+  float: right;
 }
-.titi{
+.titi {
   background-color: rgb(247, 244, 239);
 }
-.discrip{
+.discrip {
   background-color: rgb(247, 244, 239);
 }
-.submi{
+.submi {
   height: 35px;
   width: 65px;
   margin-top: 3px;
-  background-color:  rgb(227, 244, 202);
+  background-color: rgb(227, 244, 202);
 }
-
 
 .footer {
   background-color: rgb(37, 37, 37);
@@ -298,34 +268,28 @@ li{
   float: left;
 }
 
-
-.social-link{
- 
-
+.social-link {
 }
-.social-link2{
+.social-link2 {
   display: flex;
   justify-content: center;
   margin-top: 100px;
-
 }
-.soci{
+.soci {
   height: 12px;
   width: 12px;
   margin-left: 8px;
   margin-right: 15px;
   margin-top: 10px;
-
 }
-a{
+a {
   margin-left: 70px;
   margin-top: 70px;
 }
-.content-footer{
-color: white;
-  
+.content-footer {
+  color: white;
 }
-.row1{
+.row1 {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -334,471 +298,97 @@ color: white;
   text-align: center;
   font-size: 20px;
   margin-right: 50px;
-  font-family: Times New Roman,Times,serif;
-  
+  font-family: Times New Roman, Times, serif;
 }
-li{
+li {
   margin-left: 30px;
 }
-.p1{
+.p1 {
   margin-left: -20px;
 }
-.copyright{
+.copyright {
   color: white;
-  display: flex ;
-  justify-content: center;
-  font-size: 15px;
-  font-family: Times New Roman,Times,serif;
-
-}
-
-
-
-
-
-
-@media (min-width: 971px)
-{
-  
-.back4{
-  float: left;
-  width: 100%;
-  height: 300px;
-
-}
-.pic{
-  border-radius: 50%;
-  margin-left: 15rem;
-  margin-top: -2.5rem;
-}
-.front{
-  margin-left: 15rem;
-  margin-top: 1rem;
-  
-}
-button{
-  background-color: gainsboro;
-  border-radius: 5px;
-  border: 1px;
-  padding: 10px;
-  font-weight: bold;
- 
-}
-.nav{
-  height: 60px;
-}
-.clap{
-  margin-top: 8px;
-  margin-left: 40px;
-}
-.nav-link{
-  margin-top: 25px;
- margin-right: -100px;
- float: left;
- font-style: non;
- text-decoration: none;
- 
-}
-  .navbar{
-    margin-left: 20px;
-  flex-direction: row;
- 
-  }
-  .navjust{
-    display: flex;
-    float: right;
-    margin-right: 150px;
-    margin-top: -50px;
-  }
-  .navitem{
-    margin-left: 27px;
-    margin-right: 27px;
-  }
-
-.bit{
-  margin-left: 15rem;
-  justify-content: space-between;
-  border-radius: 5px;
-
-}
-.bit2{
-  margin-left: 10px;
-  clear: both;
-  border-radius: 5px;
-  
-  
-}
-.places{
-  height: 400px;
-  width: 220px;
-  background-color: rgb(250, 248, 248);
-  float: left;
-  margin-top: -80px;
-  margin-left: 150px;
-  border-radius: 20px;
-
-
-}
-
-.places:hover {
-	animation: bounce 1s;
-}
-.addi{
-  float: left;
-  margin-top: 55px;
-  margin-left: 20px;
-  margin-right: 20px;
-  height: 35px;
-  width: 65px;
-  background-color: beige;
-  
-}
-.card6{
-  clear: both;
-  float: left;
-
-  margin: 0px;
-  padding: opx;
-  margin-left: -30px;
-  height: 30px;
-  align-items: center;
-  float: left;
-  
-}
-.card7{
-  margin-left: 10px;
-  margin-right: 10px;
-  float: right;
-}
-.card11{
-  margin-right: 10px;
-  float: right;
-  height: 25px  ;
-  width: 25px;
-  margin-bottom: 15px;
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-  vertical-align: middle;
-  display: table-cell;
-}
-.delete{
-  margin-top: 20px;
-}
-.btn-4{
-  clear: both;
-  margin-left: 40px;
- float: left; 
-}
-li{
-  list-style-type: none;
-  margin-bottom: 10px;
-}
-.place{
-  margin-top: 40px;
-  font-size: 18px;
-  font-family: Times New Roman,Times,serif;
-  margin-bottom: 20px;
-  margin-left: 30px;
-  font-weight: bold;
-}
-.boxes{
-  float: left;
- 
-}
-.evs{
-  margin-top: -30px;
-}
-.record{
-  margin-left: 15rem ;
-  margin-top: 35px;
-
-}
-.rc{
-  text-decoration: underline wavy red;
-  color: red;
-}
-.comm{
- 
-  background-image: url("../public/ApplauseCommunity.png");
-  background-repeat: no-repeat;
-  background-size:  contain;
-  margin-top: 100px;
-  float: left;
-  height: 140px;
-  width: 55%;
-  margin-left: 15rem;
-  display: block;
-  box-shadow: 0px 0px 30px rgb(183, 183, 111);
-  border-radius: 10px;
-
-}
-.Applause{
-  font-weight: bold;
-  font-size: 30px;
-  margin-left: 20px;
- 
-}
-.fan{
-  margin-top: 20px;
-  margin-left: 25px;
-  font-size: 20px;
-}
-.fan2{
-  font-size: 12px;
-  margin-left: 20px;
-  margin-top: 20px;
-
-}
-.upcoming{
-  clear: both;
-  float: left;
-  display: block;
-  margin-left: 16rem;
-  margin-top: 30px;
-  font-weight: bold;
-  font-size: 20px;
-  margin-bottom: 45px;
-  margin-top: 60px;
-
-
-}
-.zapp{
-  margin-left: 16rem;
-  height: 150px;
-  width: 40%;
- clear: both;
- float: left;
- margin-bottom: 50px;
-
-}
-
-.zapp:hover{
-      border: 2px solid rgb(241, 189, 58) ;
-      transform: rotate(-5deg);
-      
-
-}
-.crash{
-  border-radius: 10px;
-  margin-left: 10px;
-  margin-right: 20px;
-  float: left;
-}
-.zippi{
-  font-weight: bold;
-  font-size: 15px;
-  margin-top: 30px;
-  
-}
-.free{
-  font-size: 12px;
-  margin-top: 15px;
-}
-.perf{
-  border-radius: 15px;
-  background-color: rgb(228, 143, 157);
-  color: white;
-  margin-top: 15px ;
-  font-weight: bold;
-  
-}
-.fomio{
-  width: 250px;
-  height: 130px;
-  border: 1px solid rgb(184, 203, 14);
-  float: left;
-  margin-top: 55px;
-  margin-right: 80px;
-  border-radius: 10px;
-  text-align: center;
- 
-}
-.fomname1{
-  float: right ;
-
-}
-.titi{
-  background-color: rgb(247, 244, 239);
-}
-.discrip{
-  background-color: rgb(247, 244, 239);
-}
-.submi{
-  height: 35px;
-  width: 65px;
-  margin-top: 3px;
-  background-color:  rgb(227, 244, 202);
-}
-
-
-.footer {
-  background-color: rgb(37, 37, 37);
-  margin-top: 20px;
-  width: 100%;
-  height: 20rem;
-  float: left;
-}
-
-
-.social-link{
- 
-
-}
-.social-link2{
   display: flex;
   justify-content: center;
-  margin-top: 100px;
-
-}
-.soci{
-  height: 12px;
-  width: 12px;
-  margin-left: 8px;
-  margin-right: 15px;
-  margin-top: 10px;
-
-}
-a{
-  margin-left: 70px;
-  margin-top: 70px;
-}
-.content-footer{
-color: white;
-  
-}
-.row1{
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  margin-top: 10px;
-  align-items: center;
-  text-align: center;
-  font-size: 20px;
-  margin-right: 50px;
-  
-}
-li{
-  margin-left: 30px;
-}
-.p1{
-  margin-left: -20px;
-}
-.copyright{
-  color: white;
-  display: flex ;
-  justify-content: center;
   font-size: 15px;
-
+  font-family: Times New Roman, Times, serif;
 }
 
-
-}
-
-@media(min-width:481px ) and (max-width:970px)
-{
-  .back4{
+@media (min-width: 971px) {
+  .back4 {
     float: left;
     width: 100%;
     height: 300px;
-  
   }
-  .pic{
+  .pic {
     border-radius: 50%;
     margin-left: 15rem;
     margin-top: -2.5rem;
   }
-  .front{
+  .front {
     margin-left: 15rem;
     margin-top: 1rem;
-    
   }
-  .namo{
-    margin-left: -50px;
-    font-family: 'Times New Roman', Times, serif;
-  }
-  .prash{
-    margin-left: -50px;
-    margin-top: -20px;
-    font-family: 'Times New Roman', Times, serif;
-  }
-  .intro{
-    display: flex;
-    justify-content: center;
-  margin-top: -5px;
-  margin-left: -55px;
-  }
-  button{
+  button {
     background-color: gainsboro;
     border-radius: 5px;
     border: 1px;
     padding: 10px;
     font-weight: bold;
-   
   }
-  .nav{
+  .nav {
     height: 60px;
   }
-  .clap{
+  .clap {
     margin-top: 8px;
     margin-left: 40px;
   }
-  .nav-link{
+  .nav-link {
     margin-top: 25px;
-   margin-right: -100px;
-   float: left;
-   font-style: non;
-   text-decoration: none;
-   
+    margin-right: -100px;
+    float: left;
+    font-style: non;
+    text-decoration: none;
   }
-    .navbar{
-      margin-left: 20px;
+  .navbar {
+    margin-left: 20px;
     flex-direction: row;
-   
-    }
-    .navjust{
-      display: flex;
-      float: right;
-      margin-right: 150px;
-      margin-top: -50px;
-    }
-    .navitem{
-      margin-left: 27px;
-      margin-right: 27px;
-    }
-  
-  .bit{
-    margin-left: 190px;
-    justify-content: space-between;
-    border-radius: 15px;
-    margin-top: 20px;
-  
   }
-  .bit2{
-    margin-top: 10px;
+  .navjust {
+    display: flex;
+    float: right;
+    margin-right: 150px;
+    margin-top: -50px;
+  }
+  .navitem {
+    margin-left: 27px;
+    margin-right: 27px;
+  }
+
+  .bit {
+    margin-left: 15rem;
+    justify-content: space-between;
+    border-radius: 5px;
+  }
+  .bit2 {
     margin-left: 10px;
     clear: both;
-    border-radius: 15px;
-    
-    
+    border-radius: 5px;
   }
-  .places{
-    clear: both;
+  .places {
     height: 400px;
     width: 220px;
     background-color: rgb(250, 248, 248);
-    margin-top: 60px;
-  
-    margin-left: 12rem;
-    border-radius: 15px;
-  
-  
+    float: left;
+    margin-top: -80px;
+    margin-left: 150px;
+    border-radius: 20px;
   }
-  
+
   .places:hover {
     animation: bounce 1s;
   }
-  .addi{
+  .addi {
     float: left;
     margin-top: 55px;
     margin-left: 20px;
@@ -806,29 +396,27 @@ li{
     height: 35px;
     width: 65px;
     background-color: beige;
-    
   }
-  .card6{
+  .card6 {
     clear: both;
     float: left;
-  
+
     margin: 0px;
     padding: opx;
     margin-left: -30px;
     height: 30px;
     align-items: center;
     float: left;
-    
   }
-  .card7{
+  .card7 {
     margin-left: 10px;
     margin-right: 10px;
     float: right;
   }
-  .card11{
+  .card11 {
     margin-right: 10px;
     float: right;
-    height: 25px  ;
+    height: 25px;
     width: 25px;
     margin-bottom: 15px;
     text-align: center;
@@ -837,46 +425,359 @@ li{
     vertical-align: middle;
     display: table-cell;
   }
-  .delete{
+  .delete {
     margin-top: 20px;
   }
-  .btn-4{
+  .btn-4 {
     clear: both;
     margin-left: 40px;
-   float: left; 
+    float: left;
   }
-  li{
+  li {
     list-style-type: none;
     margin-bottom: 10px;
   }
-  .place{
+  .place {
+    margin-top: 40px;
+    font-size: 18px;
+    font-family: Times New Roman, Times, serif;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    font-weight: bold;
+  }
+  .boxes {
+    float: left;
+  }
+  .evs {
+    margin-top: -30px;
+  }
+  .record {
+    margin-left: 15rem;
+    margin-top: 35px;
+  }
+  .rc {
+    text-decoration: underline wavy red;
+    color: red;
+  }
+  .comm {
+    background-image: url("../public/ApplauseCommunity.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 100px;
+    float: left;
+    height: 140px;
+    width: 55%;
+    margin-left: 15rem;
+    display: block;
+    box-shadow: 0px 0px 30px rgb(183, 183, 111);
+    border-radius: 10px;
+  }
+  .Applause {
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 20px;
+  }
+  .fan {
+    margin-top: 20px;
+    margin-left: 25px;
+    font-size: 20px;
+  }
+  .fan2 {
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  .upcoming {
+    clear: both;
+    float: left;
+    display: block;
+    margin-left: 16rem;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 45px;
+    margin-top: 60px;
+  }
+  .zapp {
+    margin-left: 16rem;
+    height: 150px;
+    width: 40%;
+    clear: both;
+    float: left;
+    margin-bottom: 50px;
+  }
+
+  .zapp:hover {
+    border: 2px solid rgb(241, 189, 58);
+    transform: rotate(-5deg);
+  }
+  .crash {
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    float: left;
+  }
+  .zippi {
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 30px;
+  }
+  .free {
+    font-size: 12px;
+    margin-top: 15px;
+  }
+  .perf {
+    border-radius: 15px;
+    background-color: rgb(228, 143, 157);
+    color: white;
+    margin-top: 15px;
+    font-weight: bold;
+  }
+  .fomio {
+    width: 250px;
+    height: 130px;
+    border: 1px solid rgb(184, 203, 14);
+    float: left;
+    margin-top: 55px;
+    margin-right: 80px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  .fomname1 {
+    float: right;
+  }
+  .titi {
+    background-color: rgb(247, 244, 239);
+  }
+  .discrip {
+    background-color: rgb(247, 244, 239);
+  }
+  .submi {
+    height: 35px;
+    width: 65px;
+    margin-top: 3px;
+    background-color: rgb(227, 244, 202);
+  }
+
+  .footer {
+    background-color: rgb(37, 37, 37);
+    margin-top: 20px;
+    width: 100%;
+    height: 20rem;
+    float: left;
+  }
+
+  .social-link {
+  }
+  .social-link2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+  }
+  .soci {
+    height: 12px;
+    width: 12px;
+    margin-left: 8px;
+    margin-right: 15px;
+    margin-top: 10px;
+  }
+  a {
+    margin-left: 70px;
+    margin-top: 70px;
+  }
+  .content-footer {
+    color: white;
+  }
+  .row1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10px;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 50px;
+  }
+  li {
+    margin-left: 30px;
+  }
+  .p1 {
+    margin-left: -20px;
+  }
+  .copyright {
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 970px) {
+  .back4 {
+    float: left;
+    width: 100%;
+    height: 300px;
+  }
+  .pic {
+    border-radius: 50%;
+    margin-left: 15rem;
+    margin-top: -2.5rem;
+  }
+  .front {
+    margin-left: 15rem;
+    margin-top: 1rem;
+  }
+  .namo {
+    margin-left: -50px;
+    font-family: "Times New Roman", Times, serif;
+  }
+  .prash {
+    margin-left: -50px;
+    margin-top: -20px;
+    font-family: "Times New Roman", Times, serif;
+  }
+  .intro {
+    display: flex;
+    justify-content: center;
+    margin-top: -5px;
+    margin-left: -55px;
+  }
+  button {
+    background-color: gainsboro;
+    border-radius: 5px;
+    border: 1px;
+    padding: 10px;
+    font-weight: bold;
+  }
+  .nav {
+    height: 60px;
+  }
+  .clap {
+    margin-top: 8px;
+    margin-left: 40px;
+  }
+  .nav-link {
+    margin-top: 25px;
+    margin-right: -100px;
+    float: left;
+    font-style: non;
+    text-decoration: none;
+  }
+  .navbar {
+    margin-left: 20px;
+    flex-direction: row;
+  }
+  .navjust {
+    display: flex;
+    float: right;
+    margin-right: 150px;
+    margin-top: -50px;
+  }
+  .navitem {
+    margin-left: 27px;
+    margin-right: 27px;
+  }
+
+  .bit {
+    margin-left: 190px;
+    justify-content: space-between;
+    border-radius: 15px;
+    margin-top: 20px;
+  }
+  .bit2 {
+    margin-top: 10px;
+    margin-left: 10px;
+    clear: both;
+    border-radius: 15px;
+  }
+  .places {
+    clear: both;
+    height: 400px;
+    width: 220px;
+    background-color: rgb(250, 248, 248);
+    margin-top: 60px;
+
+    margin-left: 12rem;
+    border-radius: 15px;
+  }
+
+  .places:hover {
+    animation: bounce 1s;
+  }
+  .addi {
+    float: left;
+    margin-top: 55px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 35px;
+    width: 65px;
+    background-color: beige;
+  }
+  .card6 {
+    clear: both;
+    float: left;
+
+    margin: 0px;
+    padding: opx;
+    margin-left: -30px;
+    height: 30px;
+    align-items: center;
+    float: left;
+  }
+  .card7 {
+    margin-left: 10px;
+    margin-right: 10px;
+    float: right;
+  }
+  .card11 {
+    margin-right: 10px;
+    float: right;
+    height: 25px;
+    width: 25px;
+    margin-bottom: 15px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    display: table-cell;
+  }
+  .delete {
+    margin-top: 20px;
+  }
+  .btn-4 {
+    clear: both;
+    margin-left: 40px;
+    float: left;
+  }
+  li {
+    list-style-type: none;
+    margin-bottom: 10px;
+  }
+  .place {
     margin-top: 40px;
     font-size: 18px;
     margin-bottom: 20px;
     margin-left: 30px;
     font-weight: bold;
   }
-  .boxes{
+  .boxes {
     float: left;
-   
   }
-  .evs{
+  .evs {
     margin-top: -30px;
   }
-  .record{
-    margin-left: 12rem ;
+  .record {
+    margin-left: 12rem;
     margin-top: 35px;
-  
   }
-  .rc{
+  .rc {
     text-decoration: underline wavy red;
     color: red;
   }
-  .comm{
-   
+  .comm {
     background-image: url("../public/ApplauseCommunity.png");
     background-repeat: no-repeat;
-    background-size:  contain;
+    background-size: contain;
     margin-top: 100px;
     float: left;
     height: 140px;
@@ -885,26 +786,23 @@ li{
     display: block;
     box-shadow: 0px 0px 30px rgb(183, 183, 111);
     border-radius: 15px;
-  
   }
-  .Applause{
+  .Applause {
     font-weight: bold;
     font-size: 30px;
     margin-left: 20px;
-   
   }
-  .fan{
+  .fan {
     margin-top: 20px;
     margin-left: 25px;
     font-size: 20px;
   }
-  .fan2{
+  .fan2 {
     font-size: 12px;
     margin-left: 20px;
     margin-top: 20px;
-  
   }
-  .upcoming{
+  .upcoming {
     clear: both;
     float: left;
     display: block;
@@ -914,51 +812,44 @@ li{
     font-size: 20px;
     margin-bottom: 45px;
     margin-top: 60px;
-  
-  
   }
-  .zapp{
+  .zapp {
     margin-left: 16rem;
     height: 150px;
     width: 40%;
-   clear: both;
-   float: left;
-   margin-bottom: 50px;
-   margin-top: 20px;
-  
+    clear: both;
+    float: left;
+    margin-bottom: 50px;
+    margin-top: 20px;
   }
-  
-  .zapp:hover{
-        border: 2px solid rgb(241, 189, 58) ;
-        transform: rotate(-5deg);
-        
-  
+
+  .zapp:hover {
+    border: 2px solid rgb(241, 189, 58);
+    transform: rotate(-5deg);
   }
-  .crash{
+  .crash {
     border-radius: 10px;
     margin-left: -60px;
     margin-right: 20px;
     float: left;
   }
-  .zippi{
+  .zippi {
     font-weight: bold;
     font-size: 15px;
     margin-top: 30px;
-    
   }
-  .free{
+  .free {
     font-size: 12px;
     margin-top: 15px;
   }
-  .perf{
+  .perf {
     border-radius: 15px;
     background-color: rgb(228, 143, 157);
     color: white;
-    margin-top: 15px ;
+    margin-top: 15px;
     font-weight: bold;
-    
   }
-  .fomio{
+  .fomio {
     width: 250px;
     height: 130px;
     border: 1px solid rgb(184, 203, 14);
@@ -967,26 +858,23 @@ li{
     margin-right: 80px;
     border-radius: 10px;
     text-align: center;
-   
   }
-  .fomname1{
-    float: right ;
-  
+  .fomname1 {
+    float: left;
   }
-  .titi{
+  .titi {
     background-color: rgb(247, 244, 239);
   }
-  .discrip{
+  .discrip {
     background-color: rgb(247, 244, 239);
   }
-  .submi{
+  .submi {
     height: 35px;
     width: 65px;
     margin-top: 3px;
-    background-color:  rgb(227, 244, 202);
+    background-color: rgb(227, 244, 202);
   }
-  
-  
+
   .footer {
     background-color: rgb(37, 37, 37);
     margin-top: 20px;
@@ -994,79 +882,65 @@ li{
     height: 20rem;
     float: left;
   }
-  
-  
-  .social-link{
-   
-  
+
+  .social-link {
   }
-  .social-link2{
+  .social-link2 {
     display: flex;
     justify-content: center;
     margin-top: 100px;
-  
   }
-  .soci{
+  .soci {
     height: 10px;
     width: 10px;
     margin-left: 8px;
     margin-right: 15px;
     margin-top: 10px;
-  
   }
-  a{
+  a {
     margin-left: 70px;
     margin-top: 70px;
   }
-  .content-footer{
-  color: white;
-    
+  .content-footer {
+    color: white;
   }
-  .row1{
+  .row1 {
     display: flex;
     flex-direction: row;
     justify-content: center;
     margin-top: 10px;
-    font-family: Times New Roman,Times,serif;
+    font-family: Times New Roman, Times, serif;
     align-items: center;
     text-align: center;
     font-size: 18px;
     margin-right: 50px;
-    
   }
-  li{
+  li {
     margin-left: 30px;
   }
-  .p1{
+  .p1 {
     margin-left: -20px;
   }
-  .copyright{
+  .copyright {
     color: white;
-    display: flex ;
+    display: flex;
     justify-content: center;
-    font-family: Times New Roman,Times,serif;
+    font-family: Times New Roman, Times, serif;
     font-size: 15px;
-  
   }
-  
-  
 }
 
-@media (max-width: 480px)
-{
-
-
-.back4{
-  float: left;
-  height: 300px;
-  width: 100%;
-
-}
-.pic{
-  border-radius: 50%;
-  /* margin-left: 15rem;
+@media (max-width: 480px) {
+  .back4 {
+    float: left;
+    height: 300px;
+    width: 100%;
+  }
+  .pic {
+    border-radius: 50%;
+    /* margin-left: 15rem;
   margin-top: -2.5rem; */
-  clear: both;
+    clear: both;
     display: block;
     height: 100px;
     justify-content: center;
@@ -1074,379 +948,340 @@ li{
     margin-right: auto;
     margin-top: -70px;
     width: 100px;
-}
-.front{
-  margin-left: 15px;
-  display:block;
-  justify-content: center;
-    font-family: Times New Roman,Times,serif;
+  }
+  .front {
+    margin-left: 15px;
+    display: block;
+    justify-content: center;
+    font-family: Times New Roman, Times, serif;
     font-style: normal;
     margin-top: 10px;
-    transition: all .5s ease-in-out;
-}
-.namo{
-  margin-left: 70px;
-}
-.prash{
-  display:flex;
-  justify-content: center;
-  margin-left: -50px;
-  margin-top: -30px;
-}
-.intro{
-  display: flex;
-  justify-content: center;
-margin-top: -5px;
-margin-left: 55px;
-}
+    transition: all 0.5s ease-in-out;
+  }
+  .namo {
+    margin-left: 70px;
+  }
+  .prash {
+    display: flex;
+    justify-content: center;
+    margin-left: -50px;
+    margin-top: -30px;
+  }
+  .intro {
+    display: flex;
+    justify-content: center;
+    margin-top: -5px;
+    margin-left: 55px;
+  }
 
-button{
-  background-color: gainsboro;
-  border-radius: 5px;
-  border: 1px;
-  padding: 10px;
-  font-weight: bold;
- 
-}
-.nav{
-  height: 60px;
-}
-.clap{
-  font-family: cursive;
+  button {
+    background-color: gainsboro;
+    border-radius: 5px;
+    border: 1px;
+    padding: 10px;
+    font-weight: bold;
+  }
+  .nav {
+    height: 60px;
+  }
+  .clap {
+    font-family: cursive;
     font-size: 22px;
     font-weight: 700;
     height: 100%;
     margin-left: 10px;
     margin-right: 30%;
     text-align: center;
-}
-.nav-link{
-  display: flex;
-  margin-top: 65px;
-  margin-left: -25px;
-  justify-content: space-between;
-  text-align: center;
-  color: black;
-  /* text-decoration: none; */
-  justify-content: center;
-
- 
-}
-  .navbar{
-    margin-left: 80px;
-  flex-direction: row;
   }
-  .navjust{
+  .nav-link {
+    display: flex;
+    margin-top: 65px;
+    margin-left: -25px;
+    justify-content: space-between;
+    text-align: center;
+    color: black;
+    /* text-decoration: none; */
+    justify-content: center;
+  }
+  .navbar {
+    margin-left: 80px;
+    flex-direction: row;
+  }
+  .navjust {
     display: flex;
     float: right;
     margin-right: 90px;
     margin-top: -50px;
   }
-  .navitem{
+  .navitem {
     margin-left: 17px;
     margin-right: 50px;
-  
   }
 
-.bit{
-  margin-left: 100px;
-  justify-content: space-between;
-  border-radius: 5px;
+  .bit {
+    margin-left: 100px;
+    justify-content: space-between;
+    border-radius: 5px;
+  }
+  .bit2 {
+    margin-top: 20px;
+    margin-left: 10px;
+    clear: both;
+    border-radius: 5px;
+  }
+  .record {
+    display: flex;
+    justify-content: center;
+  }
+  .places {
+    border-radius: 20px;
+    justify-content: center;
+    height: 300px;
+    width: 60%;
+    background-color: rgb(250, 248, 248);
+    float: left;
+    margin-top: 70px;
+    margin-left: 20%;
+  }
 
-}
-.bit2{
-  margin-top: 20px;
-  margin-left: 10px;
-  clear: both;
-  border-radius: 5px;
-  
-  
-}
-.record{
-  display: flex;
-  justify-content: center;
-}
-.places{
+  .places:hover {
+    animation: bounce 1s;
+  }
+  .addi {
+    float: left;
+    margin-top: 55px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 35px;
+    width: 65px;
+    background-color: beige;
+  }
+  .card6 {
+    clear: both;
+    float: left;
 
-  border-radius: 20px;
-  justify-content: center;
-  height: 300px;
-  width: 60%;
-  background-color: rgb(250, 248, 248);
-  float: left;
-  margin-top: 70px;
-  margin-left: 20%;
- 
+    margin: 0px;
+    padding: opx;
+    margin-left: -30px;
+    height: 30px;
+    align-items: center;
+    float: left;
+  }
+  .card7 {
+    margin-left: 10px;
+    margin-right: 10px;
+    float: right;
+  }
+  .card11 {
+    margin-right: 10px;
+    float: right;
+    height: 25px;
+    width: 25px;
+    margin-bottom: 15px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    display: table-cell;
+  }
+  .delete {
+    margin-top: 20px;
+  }
+  .btn-4 {
+    clear: both;
+    margin-left: 40px;
+    float: left;
+  }
+  li {
+    list-style-type: none;
+    margin-bottom: 10px;
+  }
+  .place {
+    margin-top: 40px;
+    font-size: 18px;
+    font-family: Times New Roman, Times, serif;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    font-weight: bold;
+  }
+  .boxes {
+    float: left;
+  }
+  .evs {
+    margin-top: -30px;
+  }
+  .record {
+    margin-left: 30px;
+    margin-top: 35px;
+  }
+  .rc {
+    text-decoration: underline wavy red;
+    margin-top: -5px;
+    color: red;
+  }
+  .comm {
+    background-image: url("../public/ApplauseCommunity.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 100px;
+    float: left;
+    height: 170px;
+    width: 90%;
+    margin-left: 20px;
+    display: block;
+    box-shadow: 0px 0px 30px rgb(183, 183, 111);
+    border-radius: 10px;
+  }
+  .Applause {
+    width: 100px;
+    font: 18px;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+  .fan {
+    margin-top: 20px;
+    margin-left: 25px;
+    font-size: 20px;
+  }
+  .fan2 {
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  .upcoming {
+    clear: both;
+    float: left;
+    display: block;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 45px;
+    margin-top: 60px;
+  }
+  .zapp {
+    margin-left: 20px;
+    height: 150px;
+    width: 40%;
+    clear: both;
+    float: left;
+    margin-bottom: 120px;
+  }
 
-  
+  .zapp:hover {
+    border: 2px solid rgb(241, 189, 58);
+    transform: rotate(-5deg);
+  }
+  .crash {
+    border-radius: 30px;
+    margin-left: 10px;
+    margin-right: 20px;
+    float: left;
+  }
+  .zippi {
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 30px;
+  }
+  .free {
+    font-size: 12px;
+    margin-top: 15px;
+  }
+  .perf {
+    border-radius: 15px;
+    background-color: rgb(228, 143, 157);
+    color: white;
+    margin-top: 15px;
+    font-weight: bold;
+  }
+  .fomio {
+    width: 250px;
+    height: 130px;
+    border: 1px solid rgb(184, 203, 14);
+    float: left;
+    margin-top: 55px;
+    margin-right: 80px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  .fomname1 {
+    float: right;
+  }
+  .titi {
+    background-color: rgb(247, 244, 239);
+  }
+  .discrip {
+    background-color: rgb(247, 244, 239);
+  }
+  .submi {
+    height: 35px;
+    width: 65px;
+    margin-top: 3px;
+    background-color: rgb(227, 244, 202);
+  }
 
-}
+  .footer {
+    background-color: rgb(37, 37, 37);
+    margin-top: 20px;
+    width: 100%;
+    height: 20rem;
+    float: left;
+  }
 
-.places:hover {
-	animation: bounce 1s;
-}
-.addi{
-  float: left;
-  margin-top: 55px;
-  margin-left: 20px;
-  margin-right: 20px;
-  height: 35px;
-  width: 65px;
-  background-color: beige;
-  
-}
-.card6{
-  clear: both;
-  float: left;
-
-  margin: 0px;
-  padding: opx;
-  margin-left: -30px;
-  height: 30px;
-  align-items: center;
-  float: left;
-  
-}
-.card7{
-  margin-left: 10px;
-  margin-right: 10px;
-  float: right;
-}
-.card11{
-  margin-right: 10px;
-  float: right;
-  height: 25px  ;
-  width: 25px;
-  margin-bottom: 15px;
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-  vertical-align: middle;
-  display: table-cell;
-}
-.delete{
-  margin-top: 20px;
-}
-.btn-4{
-  clear: both;
-  margin-left: 40px;
- float: left; 
-}
-li{
-  list-style-type: none;
-  margin-bottom: 10px;
-}
-.place{
-  margin-top: 40px;
-  font-size: 18px;
-  font-family: Times New Roman,Times,serif;
-  margin-bottom: 20px;
-  margin-left: 30px;
-  font-weight: bold;
-}
-.boxes{
-  float: left;
- 
-}
-.evs{
-  margin-top: -30px;
-}
-.record{
-  margin-left: 30px ;
-  margin-top: 35px;
-
-}
-.rc{
-  text-decoration: underline wavy red;
-  margin-top: -5px;
-  color: red;
-}
-.comm{
- 
-  background-image: url("../public/ApplauseCommunity.png");
-  background-repeat: no-repeat;
-  background-size:  contain;
-  margin-top: 100px;
-  float: left;
-  height: 170px;
-  width: 90%;
-  margin-left: 20px;
-  display: block;
-  box-shadow: 0px 0px 30px rgb(183, 183, 111);
-  border-radius: 10px;
-
-}
-.Applause{
-  width: 100px;
-  font: 18px;
-  font-size: 18px;
-  margin-top: 10px;
-  margin-left: 20px;
- 
-}
-.fan{
-  margin-top: 20px;
-  margin-left: 25px;
-  font-size: 20px;
-}
-.fan2{
-  font-size: 12px;
-  margin-left: 20px;
-  margin-top: 20px;
-
-}
-.upcoming{
-  clear: both;
-  float: left;
-  display: block;
-  margin-left: 20px;
-  margin-top: 30px;
-  font-weight: bold;
-  font-size: 20px;
-  margin-bottom: 45px;
-  margin-top: 60px;
-
-
-}
-.zapp{
-  margin-left: 20px;
-  height: 150px;
-  width: 40%;
- clear: both;
- float: left;
- margin-bottom: 120px;
-
-
-}
-
-.zapp:hover{
-      border: 2px solid rgb(241, 189, 58) ;
-      transform: rotate(-5deg);
-      
-
-}
-.crash{
-  border-radius: 30px;
-  margin-left: 10px;
-  margin-right: 20px;
-  float: left;
-}
-.zippi{
-  font-weight: bold;
-  font-size: 15px;
-  margin-top: 30px;
-  
-}
-.free{
-  font-size: 12px;
-  margin-top: 15px;
-}
-.perf{
-  border-radius: 15px;
-  background-color: rgb(228, 143, 157);
-  color: white;
-  margin-top: 15px ;
-  font-weight: bold;
-  
-}
-.fomio{
-  width: 250px;
-  height: 130px;
-  border: 1px solid rgb(184, 203, 14);
-  float: left;
-  margin-top: 55px;
-  margin-right: 80px;
-  border-radius: 10px;
-  text-align: center;
- 
-}
-.fomname1{
-  float: right ;
-
-}
-.titi{
-  background-color: rgb(247, 244, 239);
-}
-.discrip{
-  background-color: rgb(247, 244, 239);
-}
-.submi{
-  height: 35px;
-  width: 65px;
-  margin-top: 3px;
-  background-color:  rgb(227, 244, 202);
-}
-
-
-.footer {
-  background-color: rgb(37, 37, 37);
-  margin-top: 20px;
-  width: 100%;
-  height: 20rem;
-  float: left;
-}
-
-
-.social-link{
- 
-
-}
-.social-link2{
-  display: flex;
-  justify-content: center;
-  margin-top: 50px;
-  margin-left: -50px;
-
-}
-.soci{
-  display: flex;
-  justify-content: center;
-  height: 5px;
-  width: 5px;
-  margin-left: 2px;
-  margin-right: 2px;
-  margin-top: 10px;
-
-}
-a{
-  margin-left: 70px;
-  margin-top: 70px;
-}
-.content-footer{
-color: white;
-  
-}
-.row1{
-  display: block;
-  flex-direction: row;
-  justify-content: center;
-  margin-top: 10px;
-  display: block;
-    font-family: Times New Roman,Times,serif;
-  align-items: center;
-  text-align: center;
-  font-size: 15px;
-  margin-right: 50px;
-  margin-top: 40px;
-  
-}
-li{
-  margin-left: 30px;
-}
-.p1{
-  margin-left: 4px;
-  margin-top: 10px;
-}
-.copyright{
-  display: flex;
-  justify-content: center;
-  color: white;
-  display: block;
-  font-family: Times New Roman,Times,serif;
-  display: flex ;
-  justify-content: center;
-  font-size: 15px;
-  margin-top: 30px;
-
-}
+  .social-link {
+  }
+  .social-link2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: -50px;
+  }
+  .soci {
+    display: flex;
+    justify-content: center;
+    height: 5px;
+    width: 5px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 10px;
+  }
+  a {
+    margin-left: 70px;
+    margin-top: 70px;
+  }
+  .content-footer {
+    color: white;
+  }
+  .row1 {
+    display: block;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10px;
+    display: block;
+    font-family: Times New Roman, Times, serif;
+    align-items: center;
+    text-align: center;
+    font-size: 15px;
+    margin-right: 50px;
+    margin-top: 40px;
+  }
+  li {
+    margin-left: 30px;
+  }
+  .p1 {
+    margin-left: 4px;
+    margin-top: 10px;
+  }
+  .copyright {
+    display: flex;
+    justify-content: center;
+    color: white;
+    display: block;
+    font-family: Times New Roman, Times, serif;
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    margin-top: 30px;
+  }
 }
